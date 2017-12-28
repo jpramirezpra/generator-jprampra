@@ -1,0 +1,2 @@
+# generator-jprampra
+yeoman generator
